@@ -1,0 +1,30 @@
+img
+{
+    margin: 20px;
+    border-radius: 15px;
+    height: 200px;
+}
+
+.row
+{
+    margin-top: 20px;
+    max-width: 99% !important;
+}
+
+h5
+{
+    font-weight: bold;
+}
+
+.footer
+{
+    background-color: rgb(2, 2, 48);
+    color: white;
+    margin-bottom: 0;
+}
+
+p
+{
+    font-size: larger;
+    font-weight: bold;
+}
